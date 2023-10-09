@@ -1,4 +1,5 @@
 Adventure Story
+
 Introduction
 Welcome to Adventure Story, a console-based text adventure game written in Java!
 In this game, you will embark on an exciting journey through a fictional world, making decisions that will shape your destiny.
